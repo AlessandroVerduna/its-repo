@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Crash logs
+crash.log
+
+# Sensitive files
+*.tfvars
+
+__pychache__/*
